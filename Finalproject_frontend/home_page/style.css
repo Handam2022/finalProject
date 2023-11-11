@@ -1,0 +1,17 @@
+.btn1{
+  width: 3%;
+  margin-left: 4vw;
+}
+
+.btn2{
+  margin-right: 4vw;
+  width: 3%;
+}
+
+.exit{
+  display: none;
+}
+
+.computers{
+  display: none;
+}

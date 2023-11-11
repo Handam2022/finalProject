@@ -1,0 +1,28 @@
+body{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+}
+.inp_div{
+  display: flex;
+  flex-direction: column;
+  grid-gap: 5px;
+}
+/* .inp_style{
+  padding: 3px;
+  width: 20vw;
+} */
+
+.lab_all{
+  color: crimson;
+  font-size: 11px;
+}
+.lab_phone{
+  width: 100%;
+}
+.con_btn{
+  width: 27%;
+}
+.img_tick{
+  width: 2%;
+}
